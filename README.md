@@ -1,12 +1,20 @@
-## Me:
+# 💫 I'm Binal, Hi:
 🎓 Software Engineering Undergraduate
 
 💻 Interested in full-stack development currently speacilalizing in frontend
 
 ⚙️ Learning to build projects that follow real-world and industry best practices
 
+### My interests
 
-## Tech Stack
+🚀 Learning to build high-performance applications following industry best practices
+
+📊 Exploring modern appliations of ML & AI
+
+☁️ Learning Cloud & DevOps technologies
+
+
+# ⚙️ Tech Stack
 
 - Frontend: Tailwind CSS, JavaScript, React, Electron
 - Backend: Node.js, Express
